@@ -1,0 +1,83 @@
+@import '../../sass/default/variable';
+
+#st-alert {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.st-contact-title {
+  font-size: 30px;
+  font-weight: 400;
+  margin-top: -6px;
+  margin-bottom: 22px;
+}
+
+.st-contact-text {
+  margin-top: -6px;
+  margin-bottom: 23px;
+}
+
+.st-contact-info-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; // Distribute items evenly
+  gap: 20px; // Space between items
+}
+
+.st-single-contact-info {
+  flex: 1 1 30%; // Flex-grow, flex-shrink, and basis
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+
+  .st-icon-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.5px solid $dark-color5;
+    border-radius: 50%;
+    background-color: $dark-color2;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    transition: all 0.4s ease;
+
+    svg {
+      scale: 1.1;
+    }
+  }
+
+  .st-single-info-details {
+    h4 {
+      font-size: 20px;
+      font-weight: 400;
+      margin-top: -4px;
+      margin-bottom: 6px;
+    }
+
+    a {
+      display: block;
+      margin-bottom: -2px;
+
+      &:hover {
+        color: $base-color1;
+      }
+
+      &:last-child {
+        margin-bottom: -6px;
+      }
+    }
+
+    span {
+      display: block;
+      margin-bottom: -2px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .st-single-contact-info {
+    flex: 1 1 100%; // Full width on mobile
+    margin-bottom: 15px; // Adjust spacing
+  }
+}

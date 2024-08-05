@@ -1,0 +1,428 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    
+    "title": "a team of skilled freelance developers",
+    "subTitle": "Hello, We are ",
+    "designation": "providing top-notch web solutions."
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.avif",
+    "cvPdf": "/images/AyaResume.pdf",
+    "title": "Hi There! ",
+    "subtitle": "Freelance Developers",
+    "text": "We are a dedicated team of freelance developers with expertise in website and mobile app development. Our services encompass a wide range of technologies, including WordPress for dynamic websites, React for modern web applications, Node.js for scalable backends, Flutter for cross-platform mobile apps, and Shopify for robust e-commerce solutions. We pride ourselves on delivering high-quality, customized solutions to meet your unique needs."
+
+,
+    "details": [
+      
+     
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "WordPress Development",
+        "text": "Custom WordPress sites, from design to maintenance.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+    
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "Shopify Development",
+        "text": "Expert Shopify solutions for building and optimizing e-commerce stores.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+    
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "SEO Services",
+        "text": "Effective SEO strategies to boost your site’s visibility and traffic.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+    
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "Responsive Web Development",
+        "text": "Creating websites that look great on all devices and screen sizes.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Website Maintenance",
+        "text": "Ongoing support and updates to keep your website running smoothly.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "App Development",
+        "text": "Intuitive app development for both mobile and web platforms.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "skills": [
+      {
+        "title": "Photoshop",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Motion Graphic",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Adobe XD",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "UX Design",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "HTML",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Digital Marketing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/fit20.png",
+        "link": "https://fit20gym.com/",
+        "title": "Fit20",
+        "subTitle": "Gym / Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/north.png",
+        "link": "https://northgolfcartrental.com/",
+        "title": "NorthGolf",
+        "subTitle": "Golf Car / Booking Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/wood.png",
+        "link": "https://wood-styles.com/",
+        "title": "WoodStyle",
+        "subTitle": " WoodStyle/ Portfolio Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/reser.png",
+        "link": "https://reservationgolfcartbelize.com/",
+        "title": "Golfcartbelize",
+        "subTitle": "Golfcartbelize / Booking Webiste",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/crystal.jpg",
+        "link": "https://crystalcareclinic.com/",
+        "title": "Crystalcareclinic",
+        "subTitle": "Crystalcareclinic / Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/slimit.jpg",
+        "link": "https://slimitclinic.com/",
+        "title": "slimitclinic",
+        "subTitle": "slimitclinic / Portfolio Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/techno.png",
+        "link": "https://technoway.ca/",
+        "title": "technoway",
+        "subTitle": "Technoway / Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/puro.png",
+        "link": "https://purodistribution.com/",
+        "title": "Purodistribution",
+        "subTitle": "Puro / Ecommerce Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/chuabelak.png",
+        "link": "https://chuabelak.com/",
+        "title": "Chuabelak",
+        "subTitle": "Chuabelak / Ecommerce Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/uni.png",
+        "link": "https://piu-paris.com/",
+        "title": "University",
+        "subTitle": "University / Next Website",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      }
+      
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Senior UX/UI Designer",
+        "duration": "Jan 2020 - Present",
+        "subTitle": "Bergnaum, Hills and Howe",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Product Designer",
+        "duration": "Jan 2016 - December 2019",
+        "subTitle": "Langosh, Sipes and Raynor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "UI/UX Designer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "Strosin, Maggio and Homenick",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Master of Computer Science",
+        "duration": "2015 - 2016",
+        "subTitle": "University of XYZ",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Bachelor of Computer Science",
+        "duration": "2010 - 2014",
+        "subTitle": "University of ABC",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Diploma in Computer Science",
+        "duration": "2006 - 2010",
+        "subTitle": "XYZ Institution",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello"
+
+  },
+  "socialData": [
+    {
+      "icon": "dribbble",
+      "title": "Dribbble",
+      "link": "/"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "/"
+    }
+  ]
+}
